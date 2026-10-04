@@ -203,13 +203,13 @@ Credit-Card-Financial-Dashboard/
 
 Add the screenshot of your first dashboard here.
 
-![Credit Card Revenue Report](Screenshots/credit_card_revenue_report.png)
+![Credit Card Revenue Report]([(https://github.com/Gituserooo/Credit_Card_Usage_PoerBI_DashBoard/blob/main/customer_usage.png))
 
 ### Customer Usage & Behaviour Report
 
 Add the screenshot of your second dashboard here.
 
-![Customer Usage & Behaviour Report]((https://github.com/Gituserooo/Credit_Card_Usage_PoerBI_DashBoard/tree/main))
+![Customer Usage & Behaviour Report](https://github.com/Gituserooo/Credit_Card_Usage_PoerBI_DashBoard/blob/main/cc_revnue.png) 
 
 ---
 
