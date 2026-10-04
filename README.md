@@ -185,7 +185,8 @@ Credit-Card-Financial-Dashboard/
 │   └── credit_card_analysis.sql
 │
 ├── PowerBI/
-│   └── Credit_Card_Financial_Dashboard.pbix
+│   └── Credit_Card_Customer_Usage_Dashboard.pbix
+│   └── Credit_Card_Revenue_Dashboard.pbix
 │
 ├── Screenshots/
 │   ├── credit_card_revenue_report.png
@@ -208,7 +209,7 @@ Add the screenshot of your first dashboard here.
 
 Add the screenshot of your second dashboard here.
 
-![Customer Usage & Behaviour Report](Screenshots/customer_usage_behaviour.png)
+![Customer Usage & Behaviour Report]((https://github.com/Gituserooo/Credit_Card_Usage_PoerBI_DashBoard/tree/main))
 
 ---
 
