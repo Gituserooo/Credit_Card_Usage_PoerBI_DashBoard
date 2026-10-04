@@ -207,7 +207,7 @@ Credit-Card-Financial-Dashboard/
 ### Customer Usage & Behaviour Report
  
 
-![Customer Usage & Behaviour Report](https://github.com/Gituserooo/Credit_Card_Usage_PoerBI_DashBoard/blob/main/customer_usage.png)]
+![Customer Usage & Behaviour Report](https://github.com/Gituserooo/Credit_Card_Usage_PoerBI_DashBoard/blob/main/customer_usage.png)
 
 ---
 
